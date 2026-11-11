@@ -70,17 +70,17 @@ go run .
 - [GitHub Releases](https://github.com/anitouchq/arduino-manager/releases)
 
 
-## Скриншоты
+## 📸 Скриншоты
 
-### Окно Arduino Manager
+### 1. Работающее приложение
 
 ![Окно Arduino Manager](screenshots/application.png)
 
-### Успешная сборка для трёх ОС
+### 2. GitHub Actions — успешный CI/CD
 
-![Успешная сборка для трёх ОС](screenshots/github-actions-release.png)
+![GitHub Actions — успешная сборка](screenshots/github-actions-release.png)
 
-### GitHub Release с бинарными файлами
+### 3. GitHub Release v1.0.5 — 3 бинарника
 
 ![GitHub Release с бинарными файлами](screenshots/github-release.png)
 
